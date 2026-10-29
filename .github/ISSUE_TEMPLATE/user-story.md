@@ -18,7 +18,7 @@ assignees: ''
 Given [some context]
 When [certain action is taken]
 Then [the outcome of action is observed]
-
+```
 Evidence (Option 1): URL of `user-story.md`. Option 2: screenshot `planning-storytemplate-done.png`.
 
 ## Ex 4 – Seven stories (create via New issue → User Story; add each to the board's New issues column)
